@@ -1,2 +1,2 @@
 # Redmine
-JK Redmine
+JK Wiki and Redmine
