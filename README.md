@@ -1,2 +1,4 @@
-# Redmine
-JK Wiki and Redmine
+# Notes
+JK Wiki and notes
+
+
